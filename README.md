@@ -3,9 +3,16 @@
 
 - 🔭 I’m currently working at **Numpy Ninja**
 
+- 👨‍💻 All of my projects are available at [https://venkataramasita.wixsite.com/portfolio](https://venkataramasita.wixsite.com/portfolio)
+
+- 📝 I regularly write articles on [https://medium.com/@V.Ramasita](https://medium.com/@V.Ramasita)
+
+- 📫 How to reach me **sita.balusu128@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/venkata-ramasita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata-ramasita" height="30" width="40" /></a>
+<a href="https://medium.com/@v.ramasita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@v.ramasita" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,6 +23,7 @@
 </a>  <img src="https://github.com/sita47/sita47/assets/96062745/535e6e30-6a0d-4175-a33e-d398ad8f9ba5" alt="Excel" width="50" height="50"/> 
 </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
 </a>  <img src="https://github.com/sita47/sita47/assets/96062745/1dc66e03-69bc-4fc4-a60f-912edeb5b633" alt="Agile" width="50" height="50"/> </p>
+
 
 
 
