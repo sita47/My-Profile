@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Ramasita</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center"> A passionate Data Analyst</h3>
 
 Data Analyst with a passion for extracting insights from complex datasets. Skilled in data manipulation, visualization, and building interactive dashboards.
 
