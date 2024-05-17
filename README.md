@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Venkata Ramasita</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
+Data Analyst with a passion for extracting insights from complex datasets. Skilled in data manipulation, visualization, and building interactive dashboards.
+
 - 🔭 I’m currently working at **Numpy Ninja**
 
 - 👨‍💻 All of my projects are available at [https://venkataramasita.wixsite.com/portfolio](https://venkataramasita.wixsite.com/portfolio)
